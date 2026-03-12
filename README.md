@@ -2,7 +2,13 @@
 
 **`Desenvolvedor Back-end`**
 
-Me chamo Elson Martins Da Silva Reis, tenho 21 anos e sou natural de Belém do Pará. Atualmente estou cursando Análise e Desenvolvimento de Sistemas na UNAMA, apaixonado por desenvolvimento Back-end. 
+💻 Desenvolvedor Backend com foco em Java e Spring Boot
+🚀 Construindo APIs REST, aplicando regras de negócio e modelagem relacional
+📍 Belém - Brasil
+
+Estudante com experiência no desenvolvimento de projetos acadêmicos e pessoais, aplicando boas práticas de engenharia de software, organização em camadas e princípios de código limpo. Foco na construção de aplicações bem estruturadas, priorizando legibilidade, manutenção e qualidade do código.
+
+Atualmente aprofundando conhecimentos em arquitetura backend, integração entre sistemas e aprimoramento contínuo no ecossistema Java.
 
 <p align="left">
     <a href="https://github.com/elsonreiss?tab=followers">

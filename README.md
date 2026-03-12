@@ -2,9 +2,9 @@
 
 **`Desenvolvedor Back-end`**
 
-💻 Desenvolvedor Backend com foco em Java e Spring Boot
-🚀 Construindo APIs REST, aplicando regras de negócio e modelagem relacional
-📍 Belém - Brasil
+💻 Desenvolvedor Backend com foco em Java e Spring Boot 
+🚀 Construindo APIs REST, aplicando regras de negócio e modelagem relacional 
+📍 Belém - Brasil 
 
 Estudante com experiência no desenvolvimento de projetos acadêmicos e pessoais, aplicando boas práticas de engenharia de software, organização em camadas e princípios de código limpo. Foco na construção de aplicações bem estruturadas, priorizando legibilidade, manutenção e qualidade do código.
 

@@ -1,96 +1,57 @@
-# Elson Reis
+# 👋🏽 Olá, eu sou o Elson Reis
 
-**`Desenvolvedor Back-end`**
-
-💻 Desenvolvedor Backend com foco em Java e Spring Boot 
-🚀 Construindo APIs REST, aplicando regras de negócio e modelagem relacional 
-📍 Belém - Brasil 
+💻 Desenvolvedor Backend com foco em *Java e Spring Boot*  
+🚀 Construindo APIs REST, aplicando regras de negócio e modelagem relacional  
+📍 São Paulo - Brasil  
 
 Estudante com experiência no desenvolvimento de projetos acadêmicos e pessoais, aplicando boas práticas de engenharia de software, organização em camadas e princípios de código limpo. Foco na construção de aplicações bem estruturadas, priorizando legibilidade, manutenção e qualidade do código.
 
 Atualmente aprofundando conhecimentos em arquitetura backend, integração entre sistemas e aprimoramento contínuo no ecossistema Java.
 
-<p align="left">
-    <a href="https://github.com/elsonreiss?tab=followers">
-        <img 
-            alt="Total de estrelas" 
-            title="Total de estrelas GitHub" 
-            src="https://custom-icon-badges.demolab.com/github/stars/elsonreiss?color=55960c&style=for-the-badge&labelColor=488207&logo=star&label=estrelas"
-        />
-    </a>
-    <a href="https://github.com/elsonreiss?tab=followers">
-        <img 
-            alt="Seguidores" 
-            title="Me siga no GitHub" 
-            src="https://custom-icon-badges.demolab.com/github/followers/elsonreiss?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=github&label=Seguidores&logoColor=white"
-        />
-    </a>
-</p>
+---
+
+# ⚙️ Stack Principal
+
+## Backend
+![Java](https://img.shields.io/badge/Java-101E44.svg?style=for-the-badge&logo=openjdk&logoColor=white)
+![Spring Boot](https://img.shields.io/badge/Spring_Boot-101E44?style=for-the-badge&logo=springboot&logoColor=white)
+![JPA](https://img.shields.io/badge/JPA-101E44?style=for-the-badge&logo=hibernate&logoColor=white)
+![Maven](https://img.shields.io/badge/Maven-101E44?style=for-the-badge&logo=apachemaven&logoColor=white)
+
+## Banco de Dados
+![MySQL](https://img.shields.io/badge/MySQL-101E44?style=for-the-badge&logo=mysql&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-101E44.svg?style=for-the-badge&logo=postgresql&logoColor=white)
+
+## Integração Frontend
+![HTML](https://img.shields.io/badge/HTML5-101E44?style=for-the-badge&logo=html5&logoColor=white)
+![CSS](https://img.shields.io/badge/CSS3-101E44?style=for-the-badge&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-101E44?style=for-the-badge&logo=javascript&logoColor=white)
+
+## Ferramentas
+![Git](https://img.shields.io/badge/GIT-101E44?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-101E44?style=for-the-badge&logo=github&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-101E44?style=for-the-badge&logo=postman&logoColor=white)
 
 ---
 
-### 🤖 Linguagens e Tecnologias
-<img 
-    align="left" 
-    alt="java" 
-    title="java"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg"
-/>
-<img 
-    align="left" 
-    alt="spring" 
-    title="spring"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/spring/spring-original.svg" 
-/>
-<img 
-    align="left" 
-    alt="mysql" 
-    title="mysql"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg" 
-/>
-<img 
-    align="left" 
-    alt="HTML"
-    title="HTML" 
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" 
-/>
-<img 
-    align="left" 
-    alt="CSS" 
-    title="CSS"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" 
-/>
-<img 
-    align="left" 
-    alt="JavaScript" 
-    title="JavaScript"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" 
-/>
-<img 
-    align="left" 
-    alt="Git" 
-    title="Git"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" 
-/>
-<img 
-    align="left" 
-    alt="Python" 
-    title="Python"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" 
-/>
+# 🚀 Projetos em Destaque
+
+🔹 *Nex Order – Order Management System*  
+API REST colaborativa para gestão de pedidos, produtos e clientes, estruturada em arquitetura em camadas, modelagem relacional com JPA/Hibernate e versionamento incremental via GitHub Projects.
+
+🔹 *Axis Finance*  
+Aplicação fullstack para gestão financeira, com controle de categorias, receitas e despesas, dashboard dinâmico, tratamento global de exceções e integração entre back-end e front-end.
+
+---
+
+# 📫 Contato
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-101E44?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/elsonreis/)
+
+📧 Email: elsonreis084@gmail.com
+
+---
+
+# 📈 Objetivo
+
+Consolidar minha carreira como desenvolvedor backend, construindo soluções escaláveis, organizadas e orientadas a impacto real através da tecnologia.

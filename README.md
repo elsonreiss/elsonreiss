@@ -46,7 +46,7 @@ Aplicação fullstack para gestão financeira, com controle de categorias, recei
 
 # 📫 Contato
 
-[![LinkedIn](https://www.linkedin.com/in/elson-reis-078673358/)
+[![LinkedIn]https://img.shields.io/badge/LinkedIn-101E44?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/elson-reis-078673358/)
 
 📧 Email: elsonreis084@gmail.com
 

@@ -32,7 +32,7 @@ Atualmente aprofundando conhecimentos em arquitetura backend, integração entre
 ![GitHub](https://img.shields.io/badge/GitHub-101E44?style=for-the-badge&logo=github&logoColor=white)
 ![Postman](https://img.shields.io/badge/Postman-101E44?style=for-the-badge&logo=postman&logoColor=white)
 
----
+----
 
 # 🚀 Projetos em Destaque
 

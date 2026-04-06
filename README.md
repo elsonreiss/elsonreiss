@@ -1,4 +1,4 @@
-# 👋🏽 Olá, eu sou o Elson Reis
+# 👋🏽 Olá, eu sou o Elson Reis.
 
 💻 Desenvolvedor Backend com foco em *Java e Spring Boot*  
 🚀 Construindo APIs REST, aplicando regras de negócio e modelagem relacional  
